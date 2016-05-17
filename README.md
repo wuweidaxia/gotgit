@@ -2,7 +2,7 @@ GotGit 是我在2010年底写的一本书《Git权威指南》的代号，五年
 短短几年 Git 爆发式的发展已经让这本书显得过时了。
 
 * GitHub 引领了社区式编程的潮流，成为开源社区的代名词。我曾经应邀写了一个分析 GitHub 的电子书 [《GotGitHub》](http://www.worldhello.net/gotgithub/)，
-  但是很难跟上 GitHub 的变化的节奏。
+  但是很难跟上 GitHub 的变化
 
 * Gitlab 开源项目诞生于 2011 年，从模仿 GitHub，到被别人拿来照搬，让各种社交式编程社区在中国四处开花。
 
